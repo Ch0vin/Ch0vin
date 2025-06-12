@@ -7,16 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+APIs;Lifelong+Learner+and+Innovator" alt="Typing Animation" />
 </p>
 
----
 
-### ✍️ **About Me**
-- 💥 I specialize in **Backend Development**, focusing on **Java** and **Spring Boot**.
-- 💡 I enjoy building scalable APIs, microservices, and solving complex backend problems.
-- 🔄 Currently learning **Kubernetes**, **Docker**, and exploring **Cloud Technologies**.
-- 📈 I love collaborating on open-source projects and improving my skills every day.
-- 🤔 Fun fact: *I love automating repetitive tasks and optimizing code performance!*.
-
----
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
