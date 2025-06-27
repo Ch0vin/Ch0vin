@@ -1,11 +1,8 @@
-<h1 align="center">Hi there, I'm Chovin Saman! ✋</h1>
+<h1 align="center">Hi there, I'm Chovin Saman! </h1>
 <h3 align="center">A Passionate Backend Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+Boot+%7C+Java+%7C+APIs;Lifelong+Learner+and+Innovator" alt="Typing Animation" />
-</p>
 
 
 
