@@ -11,7 +11,7 @@
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,linux,aws,python,mysql,postgres,git,html,css,js,react" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,linux,python,mysql,postgres,git,html,css,js,react" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -28,20 +28,3 @@
 </p>
 
 ---
-
-### 🌟 **Let's Connect!**
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://github.com/Ch0vin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-</p>
-
----
-
-<p align="center">💫 *If you like my work, give me a star! Let's grow together.* ✨</p>
