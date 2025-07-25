@@ -12,8 +12,14 @@
 </p>
 
 ---
+<details>
+<summary>🎵 Currently Playing on Spotify</summary>
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31n4ktcs5rvzao7z4w6bmmgj6lx4&cover_image=true&theme=default)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31n4ktcs5rvzao7z4w6bmmgj6lx4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</details>
+
+
 
 
 ### 🌐 **My GitHub Stats**
