@@ -13,6 +13,7 @@
 
 ---
 
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31n4ktcs5rvzao7z4w6bmmgj6lx4&cover_image=true&theme=default)
 
 
 ### 🌐 **My GitHub Stats**
