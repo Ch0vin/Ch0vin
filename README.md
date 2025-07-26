@@ -8,7 +8,7 @@
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,linux,python,mysql,postgres,git,html,css,js,react" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,linux,python,go,fastapi,flutter,mysql,postgres,git,html,css,js,react" alt="Tech Stack Icons" />
 </p>
 
 ---
